@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an undergraduate student<br>Currently pursuing my Computer Science degree at BRAC University.<br>Reach me via contact.mazidzomader@gmail.com
+I'm an undergraduate student.<br>Currently pursuing my Computer Science degree at BRAC University.<br>Reach me via contact.mazidzomader@gmail.com
 
 
 ## 🌐 Socials:
