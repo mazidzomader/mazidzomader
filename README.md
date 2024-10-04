@@ -2,15 +2,12 @@
    <img align="center" width="100%" height="auto" alt="Coding"src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/798px-Matrix_Digital_rain_banner.gif?20180717112308">
 </a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
-<!-- <h4 align="center">phD graduate student at .</h4> -->
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- -->
 
-- 🔭 I'm an undergraduate student .
+- ⚔️ I'm an undergraduate student .
 
-- 🌱 Currently pursuing my **Computer Science** degree at BRAC University
+- 🏛️ Currently pursuing my **Computer Science** degree at BRAC University
 
-- 📫 Reach me via contact.mazidzomader@gmail.com
+- 📩 Reach me via contact.mazidzomader@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazid.zomader2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mazid-zomader) 
