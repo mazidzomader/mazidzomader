@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHE3dHpzdnQ1ZWUxeTIwcG8zNDcydXIybXJkZTFzbGV2dGdwMWYzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDa9mC3QtMvP7KXHDN/giphy.webp">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B0cXlzOW15aTNoY3Z5dGh1YjNqc3hiYXduZHp4b2wwaHp4c2NtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0W8RoGCjp0RAYxXe4s/giphy.gif">
 </a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
 
