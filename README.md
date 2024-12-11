@@ -9,6 +9,11 @@
 
 - 📩 Reach me via contact.mazidzomader@gmail.com
 
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&width=1000&height=45&lines=Every+line+of+code+you+write+matters;You+are+capable+of+more+than+you+think.+Believe+in+your+potential!;Every+expert+was+once+a+beginner;Have+faith+in+GOD+and+rely+on+yourself;GO+WITH+THE+FLOW,+TOP+OF+THE+LINE....;&center=true"></a>
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mazid-zomader) 
 
