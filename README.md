@@ -1,4 +1,6 @@
-
+<a>
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdnaHZ3Z3NmNG1rNm9kdnp0c2s1dW8xazNwNnFyYmF0d3p1dmcybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TODWVrSo8VrBWs4COO/giphy.gif">
+</a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
 
 - ⚔️ I'm an undergraduate student .
@@ -31,7 +33,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mazidzomader&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-<a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTk1c256cG9mbnRodm1wdnR6MGNycmdyZXNtdGN6ODRzbjljOWtyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64tNxPHAsUjDiwl2e7/giphy-downsized-large.gif">
-</a>
+
 <!---[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazid.zomader2005) >
