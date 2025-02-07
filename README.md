@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://github.com/user-attachments/assets/ccbbdc27-3064-4f58-aef8-6b267a1f6f39">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://github.com/mazidzomader/mazidzomader/blob/main/tumblr_71dbd3eacf7002d384a512023e8f26c9_33ae8bc3_500%20(online-video-cutter.com)%20(online-video-cutter.com)%20(1).gif">
 </a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
 
