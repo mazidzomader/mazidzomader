@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://steamuserimages-a.akamaihd.net/ugc/2009216473054250661/ACBE99463FF9F3C1C2D0C743CAD7F1A163E9029A/?imw=374&imh=215&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1MjU1NGJucWo0bjNlcmsyNDR3dWJ0YnlzbmhuZ3R0eGx0aW1nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SI1EzKrIfiMCZdbQWC/giphy.gif">
 </a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
 
@@ -31,5 +31,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mazidzomader&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-
 <!---[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazid.zomader2005) >
