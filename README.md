@@ -1,7 +1,7 @@
 <a>
    <img align="center" width="100%" height="auto" alt="Coding"src="https://github.com/mazidzomader/mazidzomader/blob/main/readme_gif.gif">
 </a>
-<h1 align="center"> Hello,👋 This is MAZID</h1>
+<h1 align="center"> Hello, This is MAZID</h1>
 
 - ⚔️ I'm an undergraduate student .
 
