@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1MjU1NGJucWo0bjNlcmsyNDR3dWJ0YnlzbmhuZ3R0eGx0aW1nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SI1EzKrIfiMCZdbQWC/giphy.gif">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://s13.gifyu.com/images/b2Rvs.gif">
 </a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
 
