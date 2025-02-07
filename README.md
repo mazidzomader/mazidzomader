@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://s13.gifyu.com/images/b2Rvs.gif">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://github.com/user-attachments/assets/ccbbdc27-3064-4f58-aef8-6b267a1f6f39">
 </a>
 <h1 align="center"> Hello,👋 This is MAZID</h1>
 
