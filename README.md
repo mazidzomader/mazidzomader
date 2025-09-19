@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J6ODZpZ3RkODZ4ODJpbzFlMjBoeTlsdjZscGd2cHA2aXYzMThpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0W8RoGCjp0RAYxXe4s/giphy.gif">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://media1.tenor.com/m/2SgKiGHXP2MAAAAd/thanos-thanos-fine-i-will-do-it-myself.gif">
 </a>
 <h1 align="center"> Hello, This is MAZID</h1>
 
