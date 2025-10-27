@@ -10,7 +10,7 @@
 - 📩 Reach me via contact.mazidzomader@gmail.com
 
 <!-- <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=cc33ff&width=1000&height=45&lines=Have+faith+in+GOD+and+rely+on+yourself;GO+WITH+THE+FLOW,+TOP+OF+THE+LINE....;&center=true"></a>
 </p> -->
 
