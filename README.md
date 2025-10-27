@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://media1.tenor.com/m/2SgKiGHXP2MAAAAd/thanos-thanos-fine-i-will-do-it-myself.gif">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://github.com/mazidzomader/mazidzomader/blob/main/jxv9lpb3d34f1.jpeg">
 </a>
 <h1 align="center"> Hello, This is MAZID</h1>
 
