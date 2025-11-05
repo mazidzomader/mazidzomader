@@ -31,4 +31,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mazidzomader&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-<!---[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazid.zomader2005) >
+<!---[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/username) >
