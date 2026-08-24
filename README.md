@@ -1,5 +1,5 @@
 <a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://github.com/mazidzomader/mazidzomader/blob/main/Climb!%20_%20Vinland%20Saga_2.gif?raw=true">
+   <img align="center" width="100%" height="auto" alt="Coding"src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/Secret%20Wars%20Marvel%20GIF.gif">
 </a>
 <h1 align="center"> Hello, This is MAZID</h1>
 
