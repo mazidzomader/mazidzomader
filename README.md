@@ -115,7 +115,7 @@
 
 # 📊 GitHub Activity
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazidzomader&bg_color=0d1117&color=58a6ff&line=1f6feb&point=57ff5c&area=true&hide_border=true)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazidzomader&bg_color=0d1117&color=58a6ff&line=1f6feb&point=57ff5c&area=true&hide_border=true)
 
 
 
