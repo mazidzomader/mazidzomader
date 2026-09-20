@@ -1,6 +1,17 @@
-<a>
-   <img align="center" width="100%" height="auto" alt="Coding"src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/Secret%20Wars%20Marvel%20GIF.gif">
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" height="auto" alt="Coding" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/Secret%20Wars%20Marvel%20GIF.gif">
+      <br>
+      <i>Hitted but survived</i>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" height="auto" alt="Monajat" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/monajat-monazat-ezgif.com-crop.gif">
+      <br>
+      <i>Pray for my academics</i>
+    </td>
+  </tr>
+</table>
 <h1 align="center"> Hello, This is MAZID</h1>
 
 - ⚔️ I'm an undergraduate student .
