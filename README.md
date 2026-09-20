@@ -11,6 +11,11 @@
       <i>Pray for my academics</i>
     </td>
   </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <img width="auto" height="auto" alt="Endgame" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/avengers-we-are-in-the-endgame-now.gif">
+    </td>
+  </tr>
 </table>
 <h1 align="center"> Hello, This is MAZID</h1>
 
