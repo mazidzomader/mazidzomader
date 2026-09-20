@@ -3,7 +3,7 @@
     <td width="50%" align="center">
       <img width="100%" height="auto" alt="Coding" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/Secret%20Wars%20Marvel%20GIF.gif">
       <br>
-      <i>Hitted but survived</i>
+      <i>Got Hit but survived</i>
     </td>
     <td width="50%" align="center">
       <img width="100%" height="auto" alt="Monajat" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/monajat-monazat-ezgif.com-crop.gif">
