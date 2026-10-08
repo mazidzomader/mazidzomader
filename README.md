@@ -1,4 +1,4 @@
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img width="100%" height="auto" alt="Coding" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/Secret%20Wars%20Marvel%20GIF.gif">
@@ -16,7 +16,10 @@
       <img width="auto" height="auto" alt="Endgame" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/avengers-we-are-in-the-endgame-now.gif">
     </td>
   </tr>
-</table>
+</table> -->
+
+<img width="100%" height="auto" alt="Coding" src="https://raw.githubusercontent.com/mazidzomader/ScrapRepo/refs/heads/main/Secret%20Wars%20Marvel%20GIF.gif">
+
 <h1 align="center"> Hello, This is MAZID</h1>
 
 - ⚔️ I'm an undergraduate student .
